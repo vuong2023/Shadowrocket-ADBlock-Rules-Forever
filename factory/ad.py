@@ -21,6 +21,10 @@ rules_url = [
     'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt',
     # Peter Lowe 广告和隐私跟踪域名
     'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0',
+    # SE viet
+    'https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/filter-VN.txt',
+    # Ad VietNam
+    'https://github.com/bigdargon/hostsVN/blob/master/source/adservers.txt',
 ]
 
 rule = ''
