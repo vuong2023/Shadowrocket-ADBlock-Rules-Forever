@@ -24,7 +24,7 @@ rules_url = [
     # SE viet
     'https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/filter-VN.txt',
     # Ad VietNam
-    'https://github.com/bigdargon/hostsVN/blob/master/source/adservers.txt',
+    'https://github.com/bigdargon/hostsVN/raw/master/filters/adservers-all.txt',
 ]
 
 rule = ''
